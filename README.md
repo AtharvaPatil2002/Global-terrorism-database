@@ -14,6 +14,7 @@ The dataset was first cleaned in excel by filtering out the unnecessary and empt
 ## Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed in Jupyter Notebook, where various statistical methods and visualization techniques were utilized to explore the dataset. The analysis focused on identifying trends, patterns, and correlations within the data. Mainly the visualizations used were bar graphs for countplot, lineplot for timeline analysis and wordcloud for analysis of the terrorists motive.
+
 <img width="595" alt="Screenshot 2024-05-18 184658" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/05e10a4f-d3f1-4a17-8910-dcfafa81e10e">
 <img width="602" alt="Screenshot 2024-05-18 184930" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/756287bc-99bf-425e-95b1-d842814cddc4">
 <img width="594" alt="Screenshot 2024-05-18 184948" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/38cd2a49-628d-4958-8f98-6aa5b5b6454b">
@@ -28,6 +29,7 @@ To gain deeper insights and perform more complex queries, the cleaned dataset wa
 ## Dashboard Creation in Tableau Public
 
 Finally, a dashboard was created using Tableau Public, integrating key findings and visualizations to provide an interactive platform for exploring the analyzed data. The dashboard offers a comprehensive overview of global terrorism trends and allows users to interactively explore the data. The dashboard contained a group of various charts and filters that helps users to analyze the details deeply and determine their own conclusions.
+
 <img width="699" alt="Tableau dashboard screenshot" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/76da0ccc-4fce-42b4-b8ec-311a2647739f">
 ## Files Included
 
@@ -47,14 +49,14 @@ Link - [Global terrorist Dataset EDA](https://public.tableau.com/app/profile/ath
 
 ## Dependencies
 
-Python 3.x
-Jupyter Notebook
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SQL Server Management Studio
-Tableau Public
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL Server Management Studio
+- Tableau Public
 ## Usage
 
 Begin by ensuring all dependencies are installed.
