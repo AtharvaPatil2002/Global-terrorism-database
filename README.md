@@ -19,14 +19,20 @@ Exploratory Data Analysis was performed in Jupyter Notebook, where various stati
 ## Insights using SQL Server management studio
 
 To gain deeper insights and perform more complex queries, the cleaned dataset was imported into SQL Server Management Studio. SQL queries were executed to extract relevant information and answer specific analytical questions regarding global terrorism trends. Various insights like attack count by country, region, organisations, motive, etc. were determined and extracted.
+
+<img width="265" alt="Query 5" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/4cc72a74-2b2b-4e19-8934-d0bb31653628">
+<img width="144" alt="Query 3" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/3fadf05c-c79c-4601-ae57-f554dd605c0f">
 ## Data Visualization
 
 Data visualization played a crucial role in communicating insights effectively. Matplotlib and Seaborn libraries were employed in Jupyter Notebook to create visual representations of the analyzed data, such as plots, graphs, and charts.
 Bar charts, stacked bar charts and wordcloud were some of the important visualization techniques used to make charts using seaborns and matplotlib libraries in Python.
 <img width="595" alt="Screenshot 2024-05-18 184658" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/05e10a4f-d3f1-4a17-8910-dcfafa81e10e">
+<img width="602" alt="Screenshot 2024-05-18 184930" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/756287bc-99bf-425e-95b1-d842814cddc4">
+<img width="594" alt="Screenshot 2024-05-18 184948" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/38cd2a49-628d-4958-8f98-6aa5b5b6454b">
 ## Dashboard Creation in Tableau Public
 
 Finally, a dashboard was created using Tableau Public, integrating key findings and visualizations to provide an interactive platform for exploring the analyzed data. The dashboard offers a comprehensive overview of global terrorism trends and allows users to interactively explore the data. The dashboard contained a group of various charts and filters that helps users to analyze the details deeply and determine their own conclusions.
+<img width="699" alt="Tableau dashboard screenshot" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/76da0ccc-4fce-42b4-b8ec-311a2647739f">
 ## Files Included
 
 global_terrorism_data.csv: The cleaned dataset obtained from the Global Terrorism Database.
