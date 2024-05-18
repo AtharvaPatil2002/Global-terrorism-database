@@ -31,6 +31,7 @@ To gain deeper insights and perform more complex queries, the cleaned dataset wa
 Finally, a dashboard was created using Tableau Public, integrating key findings and visualizations to provide an interactive platform for exploring the analyzed data. The dashboard offers a comprehensive overview of global terrorism trends and allows users to interactively explore the data. The dashboard contained a group of various charts and filters that helps users to analyze the details deeply and determine their own conclusions.
 
 <img width="699" alt="Tableau dashboard screenshot" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/76da0ccc-4fce-42b4-b8ec-311a2647739f">
+
 ## Files Included
 
 global_terrorism_data.csv: The cleaned dataset obtained from the Global Terrorism Database.
