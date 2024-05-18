@@ -67,7 +67,7 @@ Import the cleaned dataset into SQL Server Management Studio and execute SQL que
 Lastly, explore the insights and visualizations provided in the Tableau Public dashboard (Global terrorist Dataset EDA_v2023.3.twbx).
 ## Contributors
 
-Atharva Patil
+**Atharva Patil**
 ## Acknowledgements
 
 Global Terrorism Database (GTD) for providing the dataset.
