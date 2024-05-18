@@ -23,6 +23,7 @@ To gain deeper insights and perform more complex queries, the cleaned dataset wa
 
 Data visualization played a crucial role in communicating insights effectively. Matplotlib and Seaborn libraries were employed in Jupyter Notebook to create visual representations of the analyzed data, such as plots, graphs, and charts.
 Bar charts, stacked bar charts and wordcloud were some of the important visualization techniques used to make charts using seaborns and matplotlib libraries in Python.
+<img width="595" alt="Screenshot 2024-05-18 184658" src="https://github.com/AtharvaPatil2002/Global-terrorism-database/assets/97679489/05e10a4f-d3f1-4a17-8910-dcfafa81e10e">
 ## Dashboard Creation in Tableau Public
 
 Finally, a dashboard was created using Tableau Public, integrating key findings and visualizations to provide an interactive platform for exploring the analyzed data. The dashboard offers a comprehensive overview of global terrorism trends and allows users to interactively explore the data. The dashboard contained a group of various charts and filters that helps users to analyze the details deeply and determine their own conclusions.
