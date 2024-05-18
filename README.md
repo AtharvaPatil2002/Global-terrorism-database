@@ -4,15 +4,15 @@ This project aims to analyze global terrorism trends using data obtained from th
 
 # Table of Contents
 - [Data collection](#Data-Collection)
-- Data cleaning
-- Exploratory Data Analysis (EDA)
-- Insights using SQL Server management studio
-- Dashboard Creation in Tableau Public
-- Files Included
-- Dependencies
-- Usage
-- Contributors
-- Acknowledgements
+- [Data cleaning](#Data-Cleaning)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
+- [Insights using SQL Server management studio](#Insights-using-SQL-Server-management-studio)
+- [Dashboard Creation in Tableau Public](#Dashboard-Creation-in-Tableau-Public)
+- [Files Included](#Files-Included)
+- [Dependencies](#Dependencies)
+- [Usage](#Usage)
+- [Contributors](#Contributors)
+- [Acknowledgements](#Acknowledgements)
 
 ## Data Collection
 
