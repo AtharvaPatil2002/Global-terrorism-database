@@ -3,7 +3,7 @@
 This project aims to analyze global terrorism trends using data obtained from the Global Terrorism Database (GTD). The analysis involves data cleaning, exploratory data analysis (EDA), and visualization to gain insights into patterns, trends, and factors influencing terrorist activities worldwide.
 
 # Table of Contents
-- Data collection
+- [Data collection](#Data-Collection)
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 - Insights using SQL Server management studio
